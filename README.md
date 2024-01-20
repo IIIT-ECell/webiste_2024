@@ -1,2 +1,2 @@
-# webiste_2024
+# website_2024
 Why not revamp everything (again)?
